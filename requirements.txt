@@ -1,0 +1,10 @@
+torch
+torchvision
+pillow
+opencv-python
+numpy
+tesseract
+easyocr
+matplotlib
+pandas
+streamlit
